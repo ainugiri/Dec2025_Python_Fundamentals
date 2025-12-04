@@ -47,4 +47,9 @@ print(f"t6 is {t6}, and at index 3 we have another tuple {t6[3]}")
 #               ()
 # Change        Not
 # append,       +, count, index
-# 
+#
+
+t7 =121,132,141,151,160,162,177
+for value in t7:
+    if value > 150:
+        print(value)
