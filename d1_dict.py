@@ -10,12 +10,6 @@ print(f"Priscilla Prikilla Prigilla")
 print(f"Priscilla Prikilla Prigilla")
 print(f"Priscilla Prikilla Prigilla")
 print(f"Priscilla Prikilla Prigilla")
-print(f"Priscilla Prikilla Prigilla")
-print(f"Priscilla Prikilla Prigilla")
-print(f"Priscilla Prikilla Prigilla")
-print(f"Priscilla Prikilla Prigilla")
-
-
 print(A825662.values())
 
 A825662.pop("email")
