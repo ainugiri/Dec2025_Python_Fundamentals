@@ -6,12 +6,7 @@ A825662 = {
 }
 print(A825662.keys())
 print(f" Name of A825662 is {A825662["Name"]} and his age is {A825662["Age"]} from {A825662["city"]}")
-print(f"Priscilla Prikilla Prigilla")
-print(f"Priscilla Prikilla Prigilla")
-print(f"Priscilla Prikilla Prigilla")
-print(f"Priscilla Prikilla Prigilla")
-print(A825662.values())
-
+print("Priscilla, Abi, Rohin and Ramya")
 A825662.pop("email")
 print(A825662.keys())
 print(A825662.values())
